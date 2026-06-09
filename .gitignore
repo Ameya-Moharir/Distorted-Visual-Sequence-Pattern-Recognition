@@ -1,0 +1,35 @@
+# Virtual environments
+cig_env/
+venv/
+.venv/
+env/
+
+cig_ps/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# Large model folders
+models/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+logs/
